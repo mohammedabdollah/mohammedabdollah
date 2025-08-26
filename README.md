@@ -57,13 +57,12 @@ To become a professional accountant in the UAE, specializing in ERP accounting s
 ---
 
 ### ✨ إيه اللي أضفناه هنا:
-- **Badges ملونة** (Excel, QuickBooks, Odoo, SAP, Python).  
+- **Badges ملونة** (Excel, QuickBooks, Odoo, Zoho Books).  
 - **GitHub stats card** (يعرض اللغات/النشاط بتاعك).  
 - **Mermaid Chart** (مخطط محاسبي بسيط يترسم تلقائيًا في GitHub).  
 - **Emojis** عشان يكون شكله مش جاف.  
 
 ---
 
-تحب أضيفلك كمان **Pie Chart أو Bar Chart** يوضح مثلاً توزيع مهاراتك (Excel, ERP, Accounting, English) كصورة ملونة تنفع في README؟
 
 
